@@ -1,0 +1,63 @@
+{
+    "0": {
+        "category": "Retail",
+        "city": "Milwaukee",
+        "company": "JumpXS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu rhoncus arcu. Cras lorem ex, tempus non dolor quis, pretium.",
+        "email": "kshawo@phoca.cz",
+        "phone": "414-274-3262",
+        "state": "Wisconson",
+        "street_address": "856 Sheridan Terrace",
+        "years_in_business": 7,
+        "zipcode": 53234
+    },
+    "1": {
+        "category": "Retail",
+        "city": "Milwaukee",
+        "company": "JumpXS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu rhoncus arcu. Cras lorem ex, tempus non dolor quis, pretium.",
+        "email": "kshawo@phoca.cz",
+        "phone": "414-274-3262",
+        "state": "Wisconson",
+        "street_address": "856 Sheridan Terrace",
+        "years_in_business": 7,
+        "zipcode": 53234
+    },
+    "2": {
+        "category": "Retail",
+        "city": "Milwaukee",
+        "company": "JumpXS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu rhoncus arcu. Cras lorem ex, tempus non dolor quis, pretium.",
+        "email": "kshawo@phoca.cz",
+        "phone": "414-274-3262",
+        "state": "Wisconson",
+        "street_address": "856 Sheridan Terrace",
+        "years_in_business": 7,
+        "zipcode": 53234
+    },
+    "3": {
+        "category": "Retail",
+        "city": "Milwaukee",
+        "company": "JumpXS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu rhoncus arcu. Cras lorem ex, tempus non dolor quis, pretium.",
+        "email": "kshawo@phoca.cz",
+        "phone": "414-274-3262",
+        "state": "Wisconson",
+        "street_address": "856 Sheridan Terrace",
+        "years_in_business": 7,
+        "zipcode": 53234
+    }
+    ,
+    "4": {
+        "category": "Retail",
+        "city": "Milwaukee",
+        "company": "JumpXS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu rhoncus arcu. Cras lorem ex, tempus non dolor quis, pretium.",
+        "email": "kshawo@phoca.cz",
+        "phone": "414-274-3262",
+        "state": "Wisconson",
+        "street_address": "856 Sheridan Terrace",
+        "years_in_business": 7,
+        "zipcode": 53234
+    }
+}
